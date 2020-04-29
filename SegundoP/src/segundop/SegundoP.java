@@ -21,6 +21,8 @@ public class SegundoP {
         System.out.println("Prueba 1");
         
         System.out.println("prueba 2");
+        
+        System.out.println("Prueba 3");
     }
     
 }
