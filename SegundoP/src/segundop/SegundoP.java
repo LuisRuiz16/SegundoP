@@ -19,6 +19,8 @@ public class SegundoP {
         System.out.println("Segundo Parcial");
         
         System.out.println("Prueba 1");
+        
+        System.out.println("prueba 2");
     }
     
 }
