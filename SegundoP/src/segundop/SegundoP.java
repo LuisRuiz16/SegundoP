@@ -22,7 +22,7 @@ public class SegundoP {
         
         System.out.println("prueba 2");
         
-        System.out.println("Prueba 3");
+        System.out.println("Prueba 4");
     }
     
 }
